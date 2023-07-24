@@ -2,6 +2,8 @@
 
 Repositório para o trabalho de Linguagens de Programação.
 
+Repository for the implementation work of a preprocessor for the Programming Languages subject.
+
 Professor: [Carlos Bazilio](https://github.com/carlosbazilio)
 ## 
 
