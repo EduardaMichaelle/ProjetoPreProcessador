@@ -19,8 +19,24 @@ Professor: [Carlos Bazilio](https://github.com/carlosbazilio)
 
 ● Um código que não apresente erros de compilação, deve continuar desta forma após o pré-processamento
 
+##
+📝 Implement a preprocessor for C that:
+
+● Remove source code comments
+
+● Expand include's and define's (constants and macros)
+
+● Remove line breaks, tabs and spaces where possible
+
+● The program must be presented with an executable that receives the .c file as a parameter to be preprocessed
+
+● Can be done in any language
+
+● A code that does not present compilation errors, must continue in this way after preprocessing
 ## 
 
 📌 A linguagem escolhida foi Python. 
+
+📌 The chosen language was Python.
 
 
